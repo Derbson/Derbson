@@ -5,6 +5,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,debian,git,bash,python,flask,selenium,mysql,postgres,aws,docker,ansible" />
+    <img src="https://skillicons.dev/icons?i=linux,debian,bash,python,flask,selenium,mysql,postgres,aws,git,docker,ansible" />
   </a>
 </p>
