@@ -1,6 +1,6 @@
 ## Olá, sou Pedro 👋
 Cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Estácio do Ceará - Campus Parangaba 
-Entusiasta de Open-Source e Linux 🐧
+Entusiasta de Open-Source e Linux 🐧 \
 apaixonado por tecnologia e sempre buscando aprender mais.
 # Tecnologias e Ferramentas 💻🤓
 
