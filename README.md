@@ -9,6 +9,6 @@ apaixonado por tecnologia e sempre buscando aprender mais. 💻🤓
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,debian,bash,python,flask,grafana,selenium,mysql,postgres,aws,git,gitlab,docker,kubernets,ansible" />
+    <img src="https://skillicons.dev/icons?i=linux,debian,bash,python,flask,grafana,selenium,mysql,postgres,aws,git,gitlab,docker,kubernetes,ansible" />
   </a>
 </p>
